@@ -1,4 +1,4 @@
-# Chess #2 (Rooks & Knights)
+# Chess Implemented for Rooks & Knights
 
 Certain considerations:
 1. Chess is 8X8 grid Matrix where squares are noted using letter and number where letter indicates column and number indicates row.
